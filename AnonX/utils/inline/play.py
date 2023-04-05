@@ -61,7 +61,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🔕 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🏋️‍♀️", url="https://t.me/Noobxcoders"
+                text="🔕 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🏋️‍♀️", url="https://t.me/LINK_KI_DUNIYA"
             ),
         ],
         [
@@ -123,7 +123,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🏵️ 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🌺", url="https://t.me/Noobxcoders"
+                text="🏵️ 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🌺", url="https://t.me/LINK_KI_DUNIYA"
             ),
         ],
         [
@@ -157,7 +157,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽➡️", url="https://t.me/Noobxcoders"
+                text="𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽➡️", url="https://t.me/LINK_KI_DUNIYA"
             ),
         ],
         [
@@ -188,7 +188,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⏮️ 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽▶️", url="https://t.me/Noobxcoders"
+                text="⏮️ 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽▶️", url="https://t.me/LINK_KI_DUNIYA"
             ),
         ],
         [
@@ -348,7 +348,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/Noobxcoders"
+                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/LINK_KI_DUNIYA"
             ),
         ],
         [
